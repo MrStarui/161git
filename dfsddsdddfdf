@@ -1,0 +1,45 @@
+[33mda0ce40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: commit: 在demo.py中添加第十行语句
+[33maa95b7e[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{1}: commit: 在demo.py中添加第九行语句
+[33m7953576[m HEAD@{2}: commit: 在demo.py中添加第八行语句
+[33m6664cf0[m HEAD@{3}: checkout: moving from dev to master
+[33mbc633bd[m[33m ([m[1;32mdev[m[33m)[m HEAD@{4}: checkout: moving from master to dev
+[33m6664cf0[m HEAD@{5}: checkout: moving from dev to master
+[33mbc633bd[m[33m ([m[1;32mdev[m[33m)[m HEAD@{6}: checkout: moving from master to dev
+[33m6664cf0[m HEAD@{7}: commit (merge): 解决master和dev的冲突
+[33mf719f05[m HEAD@{8}: commit: 在master中添加第七行语句
+[33mabbb877[m HEAD@{9}: checkout: moving from dev to master
+[33mbc633bd[m[33m ([m[1;32mdev[m[33m)[m HEAD@{10}: commit: 在demo.py中添加第六行语句
+[33mabbb877[m HEAD@{11}: checkout: moving from master to dev
+[33mabbb877[m HEAD@{12}: checkout: moving from dev to master
+[33mabbb877[m HEAD@{13}: checkout: moving from master to dev
+[33mabbb877[m HEAD@{14}: reset: moving to abbb87703d6e417bd2f7bead5ae0b39aa4a8f541
+[33me767a45[m HEAD@{15}: reset: moving to e767a45
+[33mabbb877[m HEAD@{16}: checkout: moving from dev to master
+[33mabbb877[m HEAD@{17}: reset: moving to abbb87703d6e417bd2f7bead5ae0b39aa4a8f541
+[33me767a45[m HEAD@{18}: commit: 错误的
+[33mabbb877[m HEAD@{19}: checkout: moving from master to dev
+[33mabbb877[m HEAD@{20}: checkout: moving from dev to master
+[33mabbb877[m HEAD@{21}: checkout: moving from master to dev
+[33mabbb877[m HEAD@{22}: merge dev: Fast-forward
+[33md619f81[m HEAD@{23}: checkout: moving from dev to master
+[33mabbb877[m HEAD@{24}: commit: 在demo.py中添加第五行语句
+[33mc66691c[m HEAD@{25}: checkout: moving from master to dev
+[33md619f81[m HEAD@{26}: checkout: moving from dev to master
+[33mc66691c[m HEAD@{27}: commit: 在demo.py中添加第四行语句
+[33md619f81[m HEAD@{28}: checkout: moving from master to dev
+[33md619f81[m HEAD@{29}: checkout: moving from dev to master
+[33md619f81[m HEAD@{30}: checkout: moving from master to dev
+[33md619f81[m HEAD@{31}: checkout: moving from dev to master
+[33md619f81[m HEAD@{32}: checkout: moving from master to dev
+[33md619f81[m HEAD@{33}: reset: moving to d619f818a5f224ad5807eb4faef80005de18c45a
+[33md674298[m HEAD@{34}: commit: a.txt
+[33mfecb74c[m HEAD@{35}: commit: 添加a.txt文件
+[33md619f81[m HEAD@{36}: commit: 在demo.py中添加了第四行语句
+[33mf48f9e2[m HEAD@{37}: reset: moving to f48f9e2
+[33mc30e3cb[m HEAD@{38}: reset: moving to c30e3cb7678f44dcc8cd062fa78286826cdbad01
+[33ma0d4c57[m HEAD@{39}: reset: moving to a0d4c57840822e8b7d1ae79b0f47dccac5d241fe
+[33mf48f9e2[m HEAD@{40}: commit: 在demo.py中添加了第三行语句
+[33mdccb4b3[m HEAD@{41}: commit: 提交bilibili文件到master
+[33mf5ac0c7[m HEAD@{42}: commit: 在demo.py中添加了第二行语句
+[33mc30e3cb[m HEAD@{43}: commit: 创建了demo.py文件，并将它添加到版本库中
+[33ma0d4c57[m HEAD@{44}: commit (initial): 创建了demo.py文件，并将它添加了版本库中
